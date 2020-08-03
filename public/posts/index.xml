@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tech Stuff &gt; Rommel</title>
+    <link>https://rommel.cloud/posts/</link>
+    <description>Recent content in Posts on Tech Stuff &gt; Rommel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 18:51:25 -0700</lastBuildDate>
+    
+	<atom:link href="https://rommel.cloud/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://rommel.cloud/posts/my-first-post/</link>
+      <pubDate>Sun, 02 Aug 2020 18:51:25 -0700</pubDate>
+      
+      <guid>https://rommel.cloud/posts/my-first-post/</guid>
+      <description>I am testing Hugo for the first time.
+What is this all about?
+I don&amp;rsquo;t know. Let&amp;rsquo;s see how it goes.
+Thanks.
+So, I guess .. I have to write in a text editor and then save it to see it in my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
