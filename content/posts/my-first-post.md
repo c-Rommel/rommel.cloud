@@ -2,7 +2,7 @@
 title: "Hello World!"
 date: 2020-08-02T18:51:25-07:00
 featured_image: "/article-images/rommel.cloud.hello.world.jpg"
-draft: true
+draft: false
 ---
 
 Yep ... this is the first blog post for this site where I hope to share some hopefully useful technology related articles.
